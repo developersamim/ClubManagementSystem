@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Serializer()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Serializer\r\n
+comment1.params=filename
+comment1.target=java.util.List\ deserializeBooking(java.lang.String)
+comment2.params=obj\ filename
+comment2.target=void\ serializeBooking(java.util.List,\ java.lang.String)
+numComments=3

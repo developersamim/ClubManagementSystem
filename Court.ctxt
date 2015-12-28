@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=courtNumber
+comment0.target=Court(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Court\r\n\ \r\n\ @param\ courtNumber.\ The\ court\ number\ is\ int\r\n
+comment1.params=booking
+comment1.target=boolean\ addCourtBooking(Booking)
+comment1.text=\r\n\ This\ method\ add\ booking\ in\ the\ booking\ list\ of\ the\ court\r\n\ \r\n\ @param\ Booking.\ The\ booking\ object\r\n\ @return\ boolean.\ Return\ true\ if\ booking\ is\ added\ to\ the\ list\ and\ false\ if\ booking\ is\ not\r\n\ added\ to\ the\ list\r\n
+comment2.params=
+comment2.target=java.util.List\ getCourtBooking()
+comment2.text=\r\n\ This\ method\ retrieves\ the\ booking\ list\ of\ the\ court\r\n\ \r\n\ @return\ Booking\ list.\ The\ booking\ list\ booking\ object\r\n
+comment3.params=courtNumber
+comment3.target=void\ setCourtNumber(int)
+comment3.text=\r\n\ This\ method\ set\ the\ courtNumber\r\n\ \r\n\ @param\ courtNumber.\ The\ court\ number\ is\ int\r\n
+comment4.params=
+comment4.target=int\ getCourtNumber()
+comment4.text=\r\n\ This\ method\ retrieves\ the\ court\ number\r\n\ \r\n\ @return\ court\ number.\ The\ court\ number\ is\ int\r\n
+comment5.params=booking
+comment5.target=boolean\ deleteBooking(Booking)
+comment6.params=proposedBooking
+comment6.target=boolean\ checkClash(Booking)
+numComments=7
